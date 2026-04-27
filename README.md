@@ -1,20 +1,9 @@
 # 👋 Halo, saya Romualdus Hary Prabowo
 
-🎓 Mahasiswa Teknik Informatika - Institut Teknologi Sumatera (ITERA)
-🚀 AI Engineer Enthusiast | Cohort Coding Camp 2026 (DBS Foundation x Dicoding)
+- 🎓 Mahasiswa Teknik Informatika - Institut Teknologi Sumatera (ITERA)
+- 🚀 AI Engineer Enthusiast | Cohort Coding Camp 2026 (DBS Foundation x Dicoding)
 
 Saya memiliki minat besar di bidang **Artificial Intelligence, Machine Learning, dan Software Development**.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-- Python  
-- JavaScript  
-- HTML & CSS
-- C++
-
 ---
 
 ## 📊 GitHub Statistics
